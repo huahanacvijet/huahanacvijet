@@ -9,9 +9,9 @@
 <img align="right" height="200" src="./graphics/me-as-a-fox-lol.PNG"  />
   
 ### 💫 About Me:
-- 🫖 I currently live in Nottingham, UK.  
+- 🫖 I live in Nottingham, UK.  
 - 🦊 I’m currently working on Spirit ✨🏮  
-- 🥸 I’m currently learning React & Electron.JS  
+- 🥸 I’m now learning React & Electron.JS  
 - ⭐️ Fun fact: 我在学习汉语  
 <br>   
 
