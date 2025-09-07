@@ -10,7 +10,7 @@
   
 ### 💫 About Me:
 - 🫖 I live in Nottingham, UK.  
-- 🦊 I’m currently working on Spirit ✨🏮  
+- 🦊 I’m currently working on [Spirit](https://github.com/huahanacvijet/Spirit) ✨🏮  
 - 🥸 I’m now learning React & Electron.JS  
 - ⭐️ Fun fact: 我在学习汉语  
 <br>   
